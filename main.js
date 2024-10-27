@@ -17,4 +17,4 @@ function updateTotalPrice() {
 productSelector.addEventListener('change', updateTotalPrice);
 quantityInput.addEventListener('input', updateTotalPrice);
 
-Calculate and update total price dynamically based on product and quantity
+
